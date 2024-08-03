@@ -72,7 +72,7 @@ DATABASE_CONNECTION = {
     }
 }
 ```
-The differences from SQLite is that MySQL's `credentials` parameter is differs from what was used in SQLite
+The differences from SQLite is that MySQL's `credentials` parameter it differs from what was used in SQLite
 
 #### PostgreSQL
 

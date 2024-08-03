@@ -8,16 +8,16 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://framework.ascender.space',
+  url: 'https://ascenderteam.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/ascender-framework-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'AscenderTeam', // Usually your GitHub org/user name.
-  projectName: 'AscenderFramework', // Usually your repo name.
-
+  projectName: 'ascender-framework-docs', // Usually your repo name.
+  deploymentBranch: "master",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
