@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkascender_framework=self.webpackChunkascender_framework||[]).push([[4149],{4558:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ascender-framework-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

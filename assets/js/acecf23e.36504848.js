@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkascender_framework=self.webpackChunkascender_framework||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/ascender-framework-docs/blog","blogTitle":"Blog"}')}}]);
